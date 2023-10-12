@@ -1,0 +1,17 @@
+Primera practica de SI. curso 2023-24
+Nombre de Practica: Cifrado HILL
+Autor: Jose Luis Obiang Ela Nanguang
+version: 1.0
+Fecha de inicio: 21-09-2023
+Fecha de modificacion: el 21-09-2023
+
+Ejemplo de ejecucion de la practica 1 de Seguridad de la Informacion Curso 2023-24
+
+Posible llamada:
+> java -jar ...  [-f config.txt] | [-h]
+El argumento asociado a [–f] es el fichero de configuracion
+El argumento [–h] indica ayuda y hara que el programa informe al usuario
+
+Tambien se puede llamar con el fichero bat:
+>P1_SI.2023 [-f config.txt] | [-h]
+

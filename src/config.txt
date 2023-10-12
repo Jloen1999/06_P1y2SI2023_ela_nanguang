@@ -1,0 +1,27 @@
+#Fichero de configuracion de P1 SEI 2023
+
+#Mostrar informacion detallada de las instrucciones
+@ traza ON
+#Especificar fichero clave
+& clave clave.txt
+
+#Mostrar texto en claro
+#Especificar fichero de entrada
+& ficheroEntrada quijote1.txt
+
+#Especificar fichero de salida
+& ficheroSalida quijoteOutput.txt
+
+#Formatear fichero entrada
+& formateaEntrada
+
+#Cifrado
+@ codifica ON
+@ traza ON
+#Mostrar texto cifrado
+& hill
+
+#Descifrado
+@ codifica OFF
+#Mostrar texto descifrado
+& hill
