@@ -1,3 +1,0 @@
-- Ejemplo Clave 3x3: 1  2  3  0  4  5  1  0  6
-- Ejemplo Clave 4x4: 1  2  3  2  0  4  5  6  1  0  6  7  1  3  6  9
-- Ejemplo Clave 5x5: 1  2  3  2  0  4  5  6  1  0  6  7  1  3  6  9  7  2  4  8  9  1  3  7  4
